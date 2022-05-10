@@ -1,4 +1,6 @@
-### Hi there 👋
+### Nice to meet you:) 👋
+<h1> Hi, Nice to meet you:)👋</h1>
+I'm computer vision bot (cvisionbot) - jack yoon from Seoul, Korea. 
 
 <!--
 **cvisionBot/cvisionBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
