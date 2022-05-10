@@ -1,4 +1,3 @@
-### Nice to meet you:) 👋
 <h1> Hi, Nice to meet you:)👋</h1>
 I'm computer vision bot (cvisionbot) - jack yoon from Seoul, Korea. 
 
